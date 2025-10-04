@@ -37,7 +37,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Gemini] (https://gemini.google.com/app?hl=pt-PT7)
+- [Gemini](https://gemini.google.com/app?hl=pt-PT7)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
