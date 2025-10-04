@@ -1,8 +1,8 @@
 # 💬 Prompts
 
-### ChatGPT:
+### Gemini:
 
 | Ação    | prompt                                                                                                                                                                             |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos |
-| conteúdo| Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código (REGRAS) Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| título  | vamos gerar uma capa para esse podcast, faça um homem de porte fisicop medio, com um boné , sorridente, alto, gesticulando com a mão, ele esta sentado em uma cadeira e em sua frente tem uma mesa, em cima da mesa tem um microfone, ele esta usando fone de ouvido,  |
+| conteúdo| faça um roteiro de podcast sobre gestão de pessoas e foque na parte de retenção de talentos, o podcast tera somente 1 apresentador, o nome dele é Paulo ele tera 4 paragrafos 1 de introdução, 2 de desenvolvimento e 1 de finalização|
